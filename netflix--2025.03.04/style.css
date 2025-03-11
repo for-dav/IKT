@@ -1,0 +1,14 @@
+.my-bg-danger{
+    background-color: #e20813 !important;
+    color: white;
+}
+p{
+    line-height: 1.2;
+}
+body{
+    background-color: black;
+    padding: 10px;
+}
+main .row{
+    background-color: white;
+}

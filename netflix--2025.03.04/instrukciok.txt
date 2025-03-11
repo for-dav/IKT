@@ -1,0 +1,17 @@
+1.) Készítsen html dokumentumot netflix.html néven
+2.) A dokumentum fej részében helyezze el nézőpont meta leírót, az alapértelmezett szélesség az eszköz szélessége legyen, a nagyítás 100%
+A weboldal elrendezésénél kövesse a reszponzív elrendezési elveket!
+3.) A tartalmat sorokban (row) helyezze el
+4.) A sorokon belül oszlopokat (col-) alakítson ki a különböző szélességekhez.
+5.) A töltse fel a forras_netflix.txt fájl segítségével és lássa el a megfelelő html címkékkel
+6.) Linkeljen a html fájlhoz egy style.css fájlt
+7.) A CSS fájlban 2 különböző töréspontot helyezzen el:
+- 576px alap    (mobil nézet)
+- 576px felett  (nagy felbontás)
+8.) Minden html elemre alkalmazzon border-box méretezést
+9.) A sorokat (row) úgy alakítsa ki, hogy minden sor biztosan egymás alatt foglaljon helyet
+10.) Nagy felbontású nézetben a tartalmi rész 3-9 arányban van felosztva, míg mobil nézetben minden oszlop 12 szélességű
+11.) Az oldal háttérszíne fekete (black)
+12.) A piros szín kódja: #e20813
+
+13.) Minden mást a mintának megfelelően formázzon!
